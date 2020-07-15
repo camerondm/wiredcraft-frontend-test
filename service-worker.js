@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wiredcraft-frontend-test/precache-manifest.826eb52d7a616ee894a8a7511123ff76.js"
+  "/wiredcraft-frontend-test/precache-manifest.5a0160fa5d42abe22346de9009da3622.js"
 );
 
 self.addEventListener('message', (event) => {

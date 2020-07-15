@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5655cd0e64bf247ea0090e73a20e8a7",
+    "revision": "1f7d0ee42f7d1c1622a31799da72a745",
     "url": "/wiredcraft-frontend-test/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wiredcraft-frontend-test/static/js/2.1d11495e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "774e1fb9c305c7860f96",
-    "url": "/wiredcraft-frontend-test/static/js/main.b3c511b0.chunk.js"
+    "revision": "a9433c5b62a998200cf0",
+    "url": "/wiredcraft-frontend-test/static/js/main.672fd6b8.chunk.js"
   },
   {
     "revision": "4eb982a2f6bbf0c823a2",
