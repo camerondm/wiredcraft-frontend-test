@@ -1,6 +1,6 @@
 # Description
 
-This app is my open submission for Wiredcraft's Frontend Test, found here: https://github.com/ugglr/wiredcraft-frontend-test. It uses React, React Router, and Material UI.
+This app is my open submission for Wiredcraft's Frontend Test, found here: https://github.com/Wiredcraft/test-frontend. It uses React, React Router, and Material UI.
 The assigned mockup for the project is here:
 
 ![Assigned Mockup Image](https://camo.githubusercontent.com/e4fae5c535d915ec68cf15d07251183f461d39f6/68747470733a2f2f636c6475702e636f6d2f4a4d336c4c42415335562e6a7067)
